@@ -1,0 +1,18 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int a,b,c;
+    cout<<"enter the two no";
+    cin>>a;
+    while(a--)
+    {
+        cin>>b>>c;
+    }
+
+    cout<<"output is"<<b-c;
+
+    return 0;
+}
